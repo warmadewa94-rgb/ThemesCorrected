@@ -1,0 +1,44 @@
+{
+  "name": "Nocturne Dark",
+  "description": "Dark Discord theme based on the Nocturne–Phantom color palette.",
+  "authors": [
+    {
+      "name": "Swara"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#382a2f"],
+    "BACKGROUND_SECONDARY": ["#4b454d"],
+    "BACKGROUND_ACCENT": ["#605c6c"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#7c7b8c22"],
+    "BG_BASE_PRIMARY": ["#382a2f"],
+    "BG_BASE_SECONDARY": ["#4b454d"],
+    "BG_SURFACE_RAISED": ["#4b454d"],
+    "PANEL_BG": ["#4b454d"],
+    "CARD_PRIMARY_BG": ["#605c6c"],
+    "CARD_SECONDARY_BG": ["#605c6c"],
+    "EMBED_BACKGROUND": ["#4b454d"],
+    "EMBED_BACKGROUND_ALTERNATE": ["#4b454d"],
+    "INTERACTIVE_MUTED": ["#7c7b8c"],
+    "TEXT_PRIMARY": ["#dfd1cb"],
+    "TEXT_NORMAL": ["#dfd1cb"],
+    "TEXT_SECONDARY": ["#a9a2b0"],
+    "TEXT_MUTED": ["#7c7b8c"],
+    "TEXT_DANGER": ["#dfd1cb"],
+    "INPUT_BACKGROUND": ["#4b454d"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#4b454d"],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#605c6c"]
+  },
+  "rawColors": {
+    "PRIMARY_800": "#382a2f",
+    "PRIMARY_700": "#4b454d",
+    "PRIMARY_660": "#605c6c",
+    "PRIMARY_600": "#7c7b8c",
+    "PRIMARY_500": "#a9a2b0",
+    "PRIMARY_400": "#dfd1cb",
+    "PLUM_14": "#4b454d",
+    "PLUM_16": "#605c6c",
+    "PLUM_18": "#382a2f"
+  },
+  "spec": 2
+}
